@@ -6,8 +6,6 @@
 
 ### 🎓 关于我
 
-> 🏫 在读 · 专升本进行中  
-> 🎯 目标：华为 OD → 转正 → 华为正式  
 > 🛠️ 硬件底子：Arduino / ESP32 / STM32 / 掌控板  
 > 🤖 AI：Ollama + Dify + LM Studio + 本地大模型部署  
 > 📱 鸿蒙：ArkTS + DevEco Studio + HiAI  
