@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%E6%9D%A8%E5%AD%90%E8%81%AA+%F0%9F%91%8B;%E6%98%87%E8%85%BE+AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E9%B8%BF%E8%92%99+IoT+%2B+%E8%BE%B9%E7%BC%98+AI;%E5%8D%8E%E4%B8%BA%E7%94%9F%E6%80%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yang+ZiCong+%F0%9F%91%8B;%E6%9F%9A%E5%AD%90%E8%8C%B6+%2F+YanCeeCha;%E9%B8%BF%E8%92%99+IoT+%2B+%E8%BE%B9%E7%BC%98+AI;%E5%8D%8E%E4%B8%BA%E7%94%9F%E6%80%81" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎓 关于我
 
-> 🏫 广东建设职业技术学院 · 专升本进行中  
+> 🏫 在读 · 专升本进行中  
 > 🎯 目标：华为 OD → 转正 → 华为正式  
 > 🛠️ 硬件底子：Arduino / ESP32 / STM32 / 掌控板  
 > 🤖 AI：Ollama + Dify + LM Studio + 本地大模型部署  
 > 📱 鸿蒙：ArkTS + DevEco Studio + HiAI  
+> 🍵 aka 柚子茶 / YanCeeCha  
 
 ---
 
