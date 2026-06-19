@@ -86,8 +86,10 @@
 
 ### ⚡ Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YangZiCong2503416920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&ring_color=58A6FF" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangZiCong2503416920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+<table><tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=YangZiCong2503416920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&ring_color=58A6FF" width="100%" /></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangZiCong2503416920&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" /></td>
+</tr></table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YangZiCong2503416920&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
