@@ -2,9 +2,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yang+ZiCong+%F0%9F%91%8B;%E6%9F%9A%E5%AD%90%E8%8C%B6+%2F+YanCeeCha;%F0%9F%94%A5+HarmonyOS+%C3%97+Edge+AI;Build+%C2%B7+Ship+%C2%B7+Repeat" alt="Typing SVG" />
 
+<br>
+
 <img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=red&labelColor=101010" />
-<img src="https://img.shields.io/badge/AI-58A6FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Edge_AI-58A6FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010" />
 <img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge&logo=espressif&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010" />
+<br>
+<img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010" />
+<br>
+<img src="https://img.shields.io/badge/Dify-1C3C6C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN3YxMGwxMCA1IDEwLTVWN0wxMiAyem0wIDIuMThMNy4xMyA4LjY5IDEyIDExLjEzbDQuODctMi40NEwxMiA0LjE4em0tOCAxMC4xNVY5LjEybDUgMi41djUuMjFsLTUtMi41em0xMCAydi01LjIxbDUtMi41djUuMjFsLTUgMi41eiIvPjwvc3ZnPg==&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010" />
+<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010" />
 
 </div>
 
